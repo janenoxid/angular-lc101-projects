@@ -1,0 +1,5 @@
+.col-3 {
+  column-rule-style: dashed;
+  column-rule-width: 3px;
+  column-rule-color: indigo;
+}
