@@ -6,11 +6,13 @@ import { Component, OnInit } from '@angular/core';
    styleUrls: ['./buttons.component.css']
 })
 export class ButtonsComponent implements OnInit {
-   buttonHeading: string = "Buttons"
+   buttonHeading: string = "Buttons";
    inactive: boolean = false;
 
    constructor() { }
 
    ngOnInit() { }
+
+   
 
 }
